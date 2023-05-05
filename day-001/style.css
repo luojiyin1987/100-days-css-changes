@@ -13,7 +13,7 @@
   background: -moz-linear-gradient(bottom left, #43389f 0%, #4ec6ca 100%);
   background: -o-linear-gradient(bottom left, #43389f 0%, #4ec6ca 100%);
   background: linear-gradient(to top right, #43389f 0%, #4ec6ca 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#43389F', endColorstr='#4ec6ca',GradientType=1 );
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorists='#43389F', endColorists='#4ec6ca',GradientType=1 );
   font-family: "Courier New", "Courier", sans-serif;
   color: #fff;
   -webkit-font-smoothing: antialiased;
